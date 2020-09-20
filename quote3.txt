@@ -1,1 +1,2 @@
 I'm Batman 
+This is new quote of new-quote branch
